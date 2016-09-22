@@ -1,0 +1,27 @@
+h1{
+	color: blue;
+	font-size: 40px;
+}
+h2{
+	color: green;
+	font-size: 40px;
+}
+
+.one{
+	width: 30%;
+	background-color: red;
+	height: 40px;
+	font-size: 35px;
+}
+.two{
+	width: 23%;
+	background-color: yellow;
+	height: 40px;
+	font-size: 35px;
+}
+.three{
+	width: 18%;
+	background-color: green;
+	height: 40px;
+	font-size: 35px;
+}
